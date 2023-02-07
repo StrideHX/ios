@@ -1,2 +1,2 @@
 # ios
-MVP for the pregnancy assistance app StrideHX.
+MVP for the pregnancy assistance app StrideHX on the ios platform.
